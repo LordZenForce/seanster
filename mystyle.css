@@ -13,12 +13,12 @@ img {
 }
 
 .topnav {
-  background-color: white;
+  background-color: blue;
   overflow: hidden;
 }
 
 .topnav a {
   float: top;
-  color: blue;
-  text-align: center;
+  color: white;
+  text-align: justified;
 }
