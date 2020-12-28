@@ -1,5 +1,12 @@
 body {
 background-color: blue;
 color: white;
-align: center;
+text-align: center;
+}
+
+img {
+  display: block;
+  image-left: auto;
+  image-right: auto;
+  width: 50%
 }
