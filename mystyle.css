@@ -1,6 +1,6 @@
 body {
 background-color: gold;
-color: white;
+color: maroon;
 text-align: center;
 }
 
@@ -13,12 +13,11 @@ img {
 }
 
 .topnav {
-  background-color: blue;
   overflow: hidden;
 }
 
 .topnav a {
   float: top;
-  color: white;
+  color: maroon;
   text-align: justified;
 }
