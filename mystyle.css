@@ -13,11 +13,8 @@ img {
   
 }
 
-.topnav {
-  overflow: hidden;
-}
 
-.topnav a {
+.topnav p a {
   float: left;
   color: maroon;
   text-align: justified;
