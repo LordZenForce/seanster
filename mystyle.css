@@ -18,7 +18,7 @@ img {
 }
 
 .topnav a {
-  float: top;
+  float: left;
   color: maroon;
   text-align: justified;
 }
