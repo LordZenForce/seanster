@@ -14,8 +14,12 @@ img {
 }
 
 
-.topnav p a {
-  float: left;
+.topnav a {
+  height: 100%;
+  width: 20%;
+  position: fixed;
+  top: 0;
+  left: 0;
   color: maroon;
   text-align: justified;
 }
