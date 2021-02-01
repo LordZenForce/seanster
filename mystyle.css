@@ -24,11 +24,12 @@ body{
   padding: 20px;
   text-decoration: none;
   display: block;
+  background-color: gold;
 }
 
 .nav a:hover {
   background color: gold;
-  color: black;
+  color: purple;
 }
 
 img {
