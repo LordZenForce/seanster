@@ -8,6 +8,7 @@ body{
   margin: 0;
  font-family: verdana, sans-serif;
   background-color: maroon;
+  color: black;
 }
 
 .nav {
@@ -26,7 +27,6 @@ body{
   padding: 20px;
   text-decoration: none;
   display: block;
-
 }
 
 .nav a:hover {
