@@ -17,14 +17,15 @@ body{
   z-index: 1;
   top: 100px;
   left: 0;
+  background-color: gold;
 }
 
 .nav a {
-  color: gold;
+  color: black;
   padding: 20px;
   text-decoration: none;
   display: block;
-  background-color: gold;
+
 }
 
 .nav a:hover {
