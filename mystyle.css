@@ -6,8 +6,8 @@ box-sizing: border-box;
 body {
 background-color: gold;
 color: maroon;
-text-align: center;
-font-family: "verdana", sans-serif;
+text-align: right;
+font-family: verdana, sans-serif;
 }
 
 img {
