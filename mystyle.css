@@ -17,9 +17,7 @@ img {
   width: 50%;
   
 }
-.body {
-  
-}
+
 .nav {
   height: 100%;
   width: 20%;
@@ -29,4 +27,5 @@ img {
   z-index: 1;
   padding: 20px;
   color: maroon;
+  display: block;
 }
