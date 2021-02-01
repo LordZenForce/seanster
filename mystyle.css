@@ -3,6 +3,33 @@
 box-sizing: border-box;
 }
 
+body{
+  margin: 0;
+ font-family: verdana, sans-serif;
+  background color: gold;
+}
+
+.nav {
+  height: 100%;
+  width: 200px;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+}
+
+.nav a {
+  color: maroon;
+  padding: 20px;
+  text-decoration: none;
+  display: block;
+}
+
+.nav a:hover {
+  background color: gold;
+  color: black;
+}
+
 img {
   display: block;
   margin-left: auto;
@@ -10,23 +37,9 @@ img {
   width: 25%;
   
 }
+
 .body {
-  background-color: gold;
-  color: maroon;
-  text-align: center;
-  font-family: verdana, sans-serif;
   margin-left: 200px;
   padding left: 20px; 
 }
-.nav {
-  height: 100%;
-  width: 20%;
-  position: fixed;
-  top: 0;
-  left: 0;
-  z-index: 1;
-  padding: 20px;
-  color: maroon;
-  display: block;
-  width: 25%;
-}
+
